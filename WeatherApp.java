@@ -17,7 +17,7 @@ import org.json.JSONObject;
 
 public class WeatherApp {
     // API and configuration constants
-    private static final String API_KEY = "13828b8798daaef3ccba7c6b8cbb55fe";
+    private static final String API_KEY = "your API key token";
     private static final String BASE_URL = "https://api.openweathermap.org/data/2.5/";
     private static final String JSON_FILE = "weather_data.json";
 
